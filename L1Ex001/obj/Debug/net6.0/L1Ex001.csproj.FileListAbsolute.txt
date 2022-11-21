@@ -1,0 +1,15 @@
+D:\Учеба GeekBrain Тестировщик\LangC\L1Examples\L1Ex001\bin\Debug\net6.0\L1Ex001.exe
+D:\Учеба GeekBrain Тестировщик\LangC\L1Examples\L1Ex001\bin\Debug\net6.0\L1Ex001.deps.json
+D:\Учеба GeekBrain Тестировщик\LangC\L1Examples\L1Ex001\bin\Debug\net6.0\L1Ex001.runtimeconfig.json
+D:\Учеба GeekBrain Тестировщик\LangC\L1Examples\L1Ex001\bin\Debug\net6.0\L1Ex001.dll
+D:\Учеба GeekBrain Тестировщик\LangC\L1Examples\L1Ex001\bin\Debug\net6.0\L1Ex001.pdb
+D:\Учеба GeekBrain Тестировщик\LangC\L1Examples\L1Ex001\obj\Debug\net6.0\L1Ex001.csproj.AssemblyReference.cache
+D:\Учеба GeekBrain Тестировщик\LangC\L1Examples\L1Ex001\obj\Debug\net6.0\L1Ex001.GeneratedMSBuildEditorConfig.editorconfig
+D:\Учеба GeekBrain Тестировщик\LangC\L1Examples\L1Ex001\obj\Debug\net6.0\L1Ex001.AssemblyInfoInputs.cache
+D:\Учеба GeekBrain Тестировщик\LangC\L1Examples\L1Ex001\obj\Debug\net6.0\L1Ex001.AssemblyInfo.cs
+D:\Учеба GeekBrain Тестировщик\LangC\L1Examples\L1Ex001\obj\Debug\net6.0\L1Ex001.csproj.CoreCompileInputs.cache
+D:\Учеба GeekBrain Тестировщик\LangC\L1Examples\L1Ex001\obj\Debug\net6.0\L1Ex001.dll
+D:\Учеба GeekBrain Тестировщик\LangC\L1Examples\L1Ex001\obj\Debug\net6.0\refint\L1Ex001.dll
+D:\Учеба GeekBrain Тестировщик\LangC\L1Examples\L1Ex001\obj\Debug\net6.0\L1Ex001.pdb
+D:\Учеба GeekBrain Тестировщик\LangC\L1Examples\L1Ex001\obj\Debug\net6.0\L1Ex001.genruntimeconfig.cache
+D:\Учеба GeekBrain Тестировщик\LangC\L1Examples\L1Ex001\obj\Debug\net6.0\ref\L1Ex001.dll
